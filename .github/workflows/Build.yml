@@ -3,7 +3,7 @@ name: Node.js CI/CD Pipeline
 on:
   push:
     branches:
-      - add-student-feature
+      - main
 
 jobs:
 
